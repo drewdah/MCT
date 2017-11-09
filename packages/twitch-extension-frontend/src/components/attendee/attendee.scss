@@ -1,0 +1,14 @@
+.attendee {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background: url('assets/shadow-1.png') bottom center no-repeat ; 
+    background-size: cover;
+    color: red;
+    text-align: center;
+}
+
+.attendee-name {
+    width: 100%;
+    align-self: flex-end;
+}

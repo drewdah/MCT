@@ -2,13 +2,15 @@ import React from 'react';
 import Theater from '../components/theater/index.js';
 import Attendee from '../components/attendee/index.js';
 
+import './viewer.scss';
+
 const Viewer = () => (
     <div className="viewer-container">
-        <h1>MCT</h1>
+        <h1>Mystery Chat Theater</h1>
         <Theater>
-            <Attendee name='Drew' />
-            <Attendee name='Scott'/>
-            <Attendee name='Noah' />
+            <Attendee name='Dude1' />
+            <Attendee name='Dude2'/>
+            <Attendee name='Dude3' />
         </Theater>
     </div>
 );

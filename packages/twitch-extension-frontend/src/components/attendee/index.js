@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './attendee.scss';
+
 class Attendee extends React.Component {
     constructor(props) {
       super(props);
@@ -8,7 +10,7 @@ class Attendee extends React.Component {
     render() {
       return (
         <div className="attendee">
-            <h1>{this.props.name}</h1>
+            <span className="attendee-name">{this.props.name}</span>
         </div>
       );
     }

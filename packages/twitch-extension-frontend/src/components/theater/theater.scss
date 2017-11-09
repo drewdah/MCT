@@ -1,0 +1,10 @@
+.theater { 
+    position: absolute; 
+    width: 100%;
+    background-color: rgba(0,0,0,0.2);
+    bottom: 0; 
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: flex-end;
+}
