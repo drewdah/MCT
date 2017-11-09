@@ -12,4 +12,4 @@ class Theater extends React.Component {
     }
   }
 
-  export default Theater;
+export default Theater;
