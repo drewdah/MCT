@@ -1,15 +1,2 @@
-* Twitch Extension Boilerplate
-
-** Usage
-
-> yarn install
-> cd packages/twitch-extension-ui/
-> yarn install
-> yarn start
-
-** Included Features
-
-- Babel with JSX and stage 2 support
-- React support
-- Webpack support
-- Automatically set to serve development server on 8080 and over https for extension testing
+# MCT
+Twitch extension for Mystery Chat Theater
