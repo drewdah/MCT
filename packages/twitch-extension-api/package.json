@@ -1,6 +1,6 @@
 {
-  "name": "twitch-boilerplate-api",
+  "name": "mystery-chat-theater-api",
   "version": "0.1.0",
-  "description": "twitch extension boilerplate api",
+  "description": "Mystery Chat Theater backend",
   "license": "MIT"
 }

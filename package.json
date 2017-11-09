@@ -1,9 +1,9 @@
 {
-  "name": "twitch-extension-boilerplate",
+  "name": "mystery-chat-theater",
   "version": "0.1.0",
-  "description": "twitch extension boilerplate",
+  "description": "Mystery Chat Theater extension for Twitch",
   "repository": "https://github.com/ell/twitch-extension-boilerplate",
-  "author": "mumphster <alan@cattes.us>",
+  "author": "Drew Lawton <drew@mysticsparkmedia.com>",
   "license": "MIT",
   "private": true,
   "workspaces": [
