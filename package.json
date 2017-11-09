@@ -1,0 +1,13 @@
+{
+  "name": "twitch-extension-boilerplate",
+  "version": "0.1.0",
+  "description": "twitch extension boilerplate",
+  "repository": "https://github.com/ell/twitch-extension-boilerplate",
+  "author": "mumphster <alan@cattes.us>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "main": "index.js"
+}
